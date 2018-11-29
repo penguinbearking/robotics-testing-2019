@@ -1,0 +1,7 @@
+This is a text file for testing:
+
+testing
+0123456789
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+!@#$%^&*()
